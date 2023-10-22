@@ -1,3 +1,2 @@
 REVIEWBOARD_URL = 'https://rbcommons.com/s/F23_test_team_uog/'
 REPOSITORY = 'F23-youtube-dl-GroupTest '
-API_TOKEN = "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"
